@@ -1,4 +1,3 @@
-"""Adapted from https://github.com/ndrplz/ConvLSTM_pytorch/blob/master/convlstm.py"""
 import torch
 import torch.nn as nn
 
