@@ -1,4 +1,6 @@
-# conv_lstm_pytorch
+# [conv_lstm_pytorch](https://github.com/Jimexist/conv_lstm_pytorch)
+
+[![PyPI](https://img.shields.io/pypi/v/conv-lstm?style=flat-square)](https://pypi.org/project/conv-lstm)
 
 This version is forked and adapted from https://github.com/ndrplz/ConvLSTM_pytorch.
 

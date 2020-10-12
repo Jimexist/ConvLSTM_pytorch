@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "conv_lstm"
-version = "0.1.1"
+version = "0.1.2"
 description = "A PyTorch implementation for convolutional LSTM"
 authors = ["Andrea Palazzi <andrea.palazzi@unimore.it>", "Jiayu Liu <jiayu@hey.com>"]
 license = "MIT"
